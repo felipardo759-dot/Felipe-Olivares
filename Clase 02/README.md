@@ -1,4 +1,4 @@
-# Proseccing.
+# Processing.
 En esta clase descargamos el programa processing en cual es un programa enfocado en el area visual.
 
 Comenzamos abriendo el programa conociendo la "consola" que es la pantalla negra y rectangular que se encuentra en la parte inferior del programa, la cual procesa informacion para que el programa se comunique con el lenguaje humano, ¿como accedemos a la consola? escribiendo la palabra print que significa imprimir pero dentro del mundo de la programacion es una funcion.
