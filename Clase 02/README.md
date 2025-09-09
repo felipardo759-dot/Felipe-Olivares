@@ -6,7 +6,7 @@ los slash se usan para hacer comentarios o para hacer notas, al poner dos veces 
 
 ## Mi primer codigo.
 
-//COMENTARIOS 
+"//COMENTARIOS 
 //Los comentarios son para los humanos, 
 //la maquina se los salta
 
