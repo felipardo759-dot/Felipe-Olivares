@@ -14,4 +14,4 @@ los slash se usan para hacer comentarios o para hacer notas, al poner dos veces 
 //funcion(argumento)
 //cuando lo coloco entre comomillas, es una palabra para imprimir
 //cada linea se cierra con un punto y coma
-print("hola mundo");
+print("hola mundo");´´´
