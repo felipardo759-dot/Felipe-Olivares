@@ -5,7 +5,9 @@ Comenzamos abriendo el programa conociendo la "consola" que es la pantalla negra
 los slash se usan para hacer comentarios o para hacer notas, al poner dos veces slash antes de escribir el programa se los saltara.
 
 ## Mi primer codigo.
-´´´//COMENTARIOS 
+
+bash
+//COMENTARIOS 
 //Los comentarios son para los humanos, 
 //la maquina se los salta
 
@@ -14,4 +16,6 @@ los slash se usan para hacer comentarios o para hacer notas, al poner dos veces 
 //funcion(argumento)
 //cuando lo coloco entre comomillas, es una palabra para imprimir
 //cada linea se cierra con un punto y coma
-print("hola mundo");´´´
+print("hola mundo");
+
+
