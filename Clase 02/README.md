@@ -6,7 +6,8 @@ los slash se usan para hacer comentarios o para hacer notas, al poner dos veces 
 
 ## Mi primer codigo.
 
-bash
+'''
+Processing
 //COMENTARIOS 
 //Los comentarios son para los humanos, 
 //la maquina se los salta
@@ -17,5 +18,10 @@ bash
 //cuando lo coloco entre comomillas, es una palabra para imprimir
 //cada linea se cierra con un punto y coma
 print("hola mundo");
+'''
+
+
+
+
 
 
